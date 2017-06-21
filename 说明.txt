@@ -1,0 +1,3 @@
+需要创建一个数据库 test 在创建一个表 books
+
+启动文件 test.Java
